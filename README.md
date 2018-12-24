@@ -6,8 +6,8 @@
 
 The data constisted of approximately 7 million US flights. Arrival and departure delays in minutes as well as the delay causes were used from this dataset. Approximately 148,000 records were removed from this data set for having null values for arrival/departure delays.
 
-Dataset - [here](http://stat-computing.org/dataexpo/2009/the-data.html)
-Definitions - [here](https://www.transtats.bts.gov/Fields.asp?Table_ID=236)
+* Dataset - [here](http://stat-computing.org/dataexpo/2009/the-data.html)
+* Definitions - [here](https://www.transtats.bts.gov/Fields.asp?Table_ID=236)
 
 
 ## Summary of Findings
